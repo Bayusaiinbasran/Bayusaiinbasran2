@@ -7,6 +7,8 @@
             <div class="card">
                 <div class="card-header">List Kategori Berita</div>                
                 <div class="card-body">
+                <a href="{!! route('kategori_berita.create') !!}" class="btn btn-primary">Tambah Data</a>
+    
            
                 <table border="1">
                     <tr>
